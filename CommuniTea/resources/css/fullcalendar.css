@@ -114,6 +114,15 @@ html .fc,
     height: auto;
     width: auto\9; /* ie8 */
 }
+/*Reminders*/
+.reminders{
+	float: left;
+	height: 950px;
+	width: 300px;
+	background-color: black;
+	color: white;
+}
+/*Reminders*/
 /* offCanvas*/
 #offcanvasRightLabel{
 	display: block;
